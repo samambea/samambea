@@ -1,5 +1,5 @@
 -------------ENG-----------------------
-- hello, I’m Beatriz Almeida aka @samambea;
+- hello there, I’m Beatriz Almeida aka @samambea;
 - I’m interested in programming, of course, music theory and everything comics/books/movies/series related;
 - I’m currently learning python and java;
 - I’m looking to collaborate on any projects envolving data science and backend development;
