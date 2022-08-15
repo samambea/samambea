@@ -5,7 +5,7 @@
 - I’m looking to collaborate on any projects envolving data science and backend development;
 - How to reach me {
       gmail: beatrizs.almeida27@gmail.com;
-      linkedin: [linkedin.com/](https://www.linkedin.com/in/beatriz-santos-almeida27/);
+      linkedin: [linkedin.com/in/beatriz-santos-almeida27/](https://www.linkedin.com/in/beatriz-santos-almeida27/);
 };
 
 -------------PT_BR---------------------
@@ -15,5 +15,5 @@
 - estou disposta em colaborar com projetos envolvendo data science e desenvolvimento backend;
 - como entrar em contato {
       gmail: beatrizs.almeida27@gmail.com;
-      linkedin: [linkedin.com/](https://www.linkedin.com/in/beatriz-santos-almeida27/);
+      linkedin: [linkedin.com/in/beatriz-santos-almeida27/](https://www.linkedin.com/in/beatriz-santos-almeida27/);
 };
