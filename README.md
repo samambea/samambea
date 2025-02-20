@@ -17,3 +17,4 @@
       gmail: beatrizs.almeida27@gmail.com;
       linkedin: [linkedin.com/in/beatriz-santos-almeida27/](https://www.linkedin.com/in/beatriz-santos-almeida27/);
 };
+FR %----- in progress
